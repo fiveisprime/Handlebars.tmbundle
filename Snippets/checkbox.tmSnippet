@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>checkbox</string>
 	<key>scope</key>
-	<string>text.html.handlebars</string>
+	<string>source.html,source.hbs,source.handlebars</string>
 	<key>tabTrigger</key>
 	<string>chb</string>
 	<key>uuid</key>

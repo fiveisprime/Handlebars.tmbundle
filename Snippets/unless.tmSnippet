@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>unless</string>
 	<key>scope</key>
-	<string>text.html.handlebars</string>
+	<string>source.html,source.hbs,source.handlebars</string>
 	<key>tabTrigger</key>
 	<string>unl</string>
 	<key>uuid</key>

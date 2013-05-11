@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>view</string>
 	<key>scope</key>
-	<string>text.html.handlebars</string>
+	<string>source.html,source.hbs,source.handlebars</string>
 	<key>tabTrigger</key>
 	<string>view</string>
 	<key>uuid</key>

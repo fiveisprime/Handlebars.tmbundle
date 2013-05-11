@@ -11,7 +11,7 @@
 	<key>name</key>
 	<string>if...else...end</string>
 	<key>scope</key>
-	<string>text.html.handlebars</string>
+	<string>source.html,source.hbs,source.handlebars</string>
 	<key>tabTrigger</key>
 	<string>ife</string>
 	<key>uuid</key>

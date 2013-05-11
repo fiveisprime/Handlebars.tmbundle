@@ -394,7 +394,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>text.html.handlebars</string>
+	<string>source.html,source.hbs,source.handlebars</string>
 	<key>uuid</key>
 	<string>70E91676-DE0A-4266-A2B9-3AD2E535E484</string>
 </dict>

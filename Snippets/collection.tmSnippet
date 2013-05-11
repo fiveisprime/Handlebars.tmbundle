@@ -10,7 +10,7 @@
 	<key>name</key>
 	<string>collection</string>
 	<key>scope</key>
-	<string>text.html.handlebars</string>
+	<string>source.html,source.hbs,source.handlebars</string>
 	<key>tabTrigger</key>
 	<string>coll</string>
 	<key>uuid</key>

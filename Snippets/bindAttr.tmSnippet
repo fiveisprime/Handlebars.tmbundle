@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>bindAttr</string>
 	<key>scope</key>
-	<string>text.html.handlebars meta.tag</string>
+	<string>source.html,source.hbs,source.handlebars meta.tag</string>
 	<key>tabTrigger</key>
 	<string>ba</string>
 	<key>uuid</key>
